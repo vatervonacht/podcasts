@@ -47,7 +47,9 @@ Tim (pre-recorded?):
 ### Questions/Topics
 
 #### Journey
-Tell the story of your journey to libertarianism.
+Having read and heard your background in the past, I know that your journey
+kind of started with Ayn Rand and eventually found its way to Murray
+Rothbard. Can you tell us the story of your journey to libertarianism.
 
 #### Intellectual Challenges
 Intellectually, philosophically, where did you encounter the biggest struggles? 
@@ -79,7 +81,9 @@ on it.  You said:
 Of course, you were referring to the great Murray Rothbard.  How did that
 experience with Murray influence the way you interact with, not just young
 people, but anyone who might show that glimmer of curiosity in some of 
-our ideas?  And what lessons do you think Murray left behind that might
+our ideas?  And what lessons do you think Murray left us that might
+help in spreading the ideas of liberty 
+
   
 #### Wrap-up
 Are there ideas, concepts even today that you're not quite sure you've settled
