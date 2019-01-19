@@ -11,7 +11,7 @@ actual interview, and will be edited in after the interview.
 > 
 > Hello everyone, Tim Rozmajzl here with an episode you are sure to enjoy.  I will introduce
 > my guest in a moment.  But first, with me as co-hosts for the interview today are Glenn
-> and James - my very good friends and fellow libertarians.  Glenn, JB, good to be
+> and James - my very good friends and fellow libertarians.  Glenn, James, good to be
 > with you two again.  
 > 
 > (Glenn and James say hello, small talk, etc)
@@ -85,8 +85,13 @@ relationship with Murray carry over and influence the way you interact with,
 not just young people, but anyone who might show a faint glimmer of curiosity 
 in libertarian thought?  
 
-And what lessons do you think Murray left us that might help in spreading the
-ideas of liberty?
+Our goal on this show is to tell as many varied stories as possible that relate
+personal 'conversions', so to speak, to libertarianism.  And it really is a
+process - typically not some epiphany that happens like a bolt of lightning. I
+personally find them very compelling, including your own.  What are some other
+ways libertarians can be effective in spreading these ideas?  Or conversely,
+what are some mistakes that you see many libertarians make when engaging in
+discourse with others?
   
 #### "Bonus" Question
 Are there ideas, concepts even today that you're not quite sure you've settled
@@ -97,14 +102,15 @@ worthy of more attention?
 Can you tell us about the latest research topics that we can look forward to
 seeing published in the near future by you and by your students?
 
-Are there any books in the works?
+Are there any books or other projects in the works?
 
 Walter, where should people go to find out more about you and your work?  
 
 #### Wrap Up
-Walter, thank you for carving time out of your busy schedule to spend with us.
+Walter, it's been a delight to have you on the show, and thank you for carving 
+time out of your busy schedule to spend with us.
 
 ### Outro - Will be recorded and edited later.
 ... Everyone, please remember to check out the show notes page at 
-uncommonlylibertarian.com/2.
+uncommonlylibertarian.com/2 ....
 
