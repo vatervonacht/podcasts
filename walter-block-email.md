@@ -1,6 +1,6 @@
 # Walter Block Interview Flow
 
-## Show Intro
+## Show Intro (Recorded Offline)
 
 **NOTE** The Show Intro and the Guest Intro will be recorded independtly from the 
 actual interview, and will be edited in after the interview.
@@ -16,7 +16,7 @@ actual interview, and will be edited in after the interview.
 > 
 > (Glenn and James say hello, small talk, etc)
 
-## Guest Intro (Recorded Separately)
+## Guest Intro (Recorded Offline)
 
 > Folks, we have a very special guest today, and we are honored and grateful to
 > have him here with us.  Walter Block is a giant in libertarian circles.  He
@@ -37,6 +37,8 @@ actual interview, and will be edited in after the interview.
 > articles in refereed journals and law reviews with *undergraduate students*!
 > This is a quite a track record to say the least - hard for me to fathom.
 >
+
+## Interview Starts Here
 > Walter Block, welcome to the show.
 
 (opening conversation, publications, how the interview came about)
