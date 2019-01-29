@@ -20,7 +20,7 @@
 > Therapy - or REBT. He specializes in the treatment of anxiety,
 > depression, relationship problems, and addictions. 
 
-> Dr. Edelstein has authored or co-authored several books including Three
+> Dr. Edelstein has co-authored four books - Three
 > Minute Therapy, Rational Drinking, Stage Fright, and Therapy Breakthrough.
 > He lectures nationally and internationally, appears on radio and
 > TV and his publications have appeared in psychological journals.
