@@ -37,8 +37,6 @@
 ### Questions/Topics
 
 #### Clinical Psychology and REBT
-Really want to dig in to the practice of clinical psychology and specifically
-REBT, but before we go there....  
 
 * Can you talk about what it was that got you interested in psychology and how
 you found your way to being a practicing clinical psychologist?
@@ -49,7 +47,7 @@ you encounter?
 in the approach?
 * Does REBT have detractors? What's their main beef?
 
-#### Journey
+#### Journey to Libertarianism
 Now, I know you weren't born a libertarian or into a libertarian family. 
 Can you tell us the story of your journey to libertarianism - where you
 started philosophically - the "pre-libertarian days", how you came to 
@@ -83,7 +81,6 @@ about the special interests that dominate in the field? Do most therapists you
 talk to have a positive view of regulations?
 * What is the relationship, if any, between REBT and libertarianism? Have other
 groups tried to co-opt REBT in support of views counter to libertarinism?
-
 
 #### Projects
 * Are there any projects you're working on that our listeners should be aware of?
